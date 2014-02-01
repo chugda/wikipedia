@@ -8,12 +8,12 @@ body {
   line-height: 2;
 }
 header {
-  background: fixed url(imgs/talking-heads.jpg);
+  background:  fixed url(imgs/st1.jpg);
 }
 header h1 {
   height: 400px;
   line-height: 400px;
-  color: black;
+  color: orange;
   font-family: helvetica, arial, sans-serif;
   font-size: 144px;
   text-align: center;
